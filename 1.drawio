@@ -1,9 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T09:30:50.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="V62pUg6kn5HsF_eNu0FC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T09:33:15.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Sw90GEdYLWPMAnSWE9y6" version="21.3.2" type="github">
   <diagram name="Page-1" id="S-80eAOvrbXrSKOzc8eo">
-    <mxGraphModel>
+    <mxGraphModel dx="2410" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-612" width="600" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-602" y="110" width="580" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-842" y="101" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qfauJ_PtCwiQr3YJa2o5-7" target="qfauJ_PtCwiQr3YJa2o5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qfauJ_PtCwiQr3YJa2o5-7" target="qfauJ_PtCwiQr3YJa2o5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.519;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qfauJ_PtCwiQr3YJa2o5-7" target="qfauJ_PtCwiQr3YJa2o5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-7" value="Custom Portal Backend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-432" y="293" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-8" value="WeChat MiniApp" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-352" y="403" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-9" value="Customer Portal PC Web&lt;br&gt;(MVP)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-592" y="28" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfauJ_PtCwiQr3YJa2o5-15" target="qfauJ_PtCwiQr3YJa2o5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfauJ_PtCwiQr3YJa2o5-15" target="qfauJ_PtCwiQr3YJa2o5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfauJ_PtCwiQr3YJa2o5-15" target="qfauJ_PtCwiQr3YJa2o5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qfauJ_PtCwiQr3YJa2o5-15" target="qfauJ_PtCwiQr3YJa2o5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfauJ_PtCwiQr3YJa2o5-15" target="qfauJ_PtCwiQr3YJa2o5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-15" value="IOT Platform Backend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-407" y="129" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-16" value="Architecture" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="458" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-17" value="Customer Portal APP (MVP)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-412" y="28" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-18" value="Customer Portal (MVP) RoAP APP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-282" y="28" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-19" value="Customer Portal (MVP) RoAP Web" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-152" y="28" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-20" value="Custom Portal Web Management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-222" y="293" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="qfauJ_PtCwiQr3YJa2o5-22" target="qfauJ_PtCwiQr3YJa2o5-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-686" y="260" />
+              <mxPoint x="-370" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-22" value="Salesforce (Future)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="121" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfauJ_PtCwiQr3YJa2o5-24" target="qfauJ_PtCwiQr3YJa2o5-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-24" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="-507" y="363" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-25" value="WeChat Service Account" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-472" y="403" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-26" value="Interface" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-348" y="179" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qfauJ_PtCwiQr3YJa2o5-27" value="Out of Scope for Phase I" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-837" y="107" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

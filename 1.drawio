@@ -1,9 +1,225 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T09:52:36.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="1TXNNsXaR3CPtVc_i2r8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T09:53:16.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yPen8u2NS9HCBMFrFF_s" version="21.3.2" type="github">
   <diagram name="Page-1" id="LZqSPfDVrNzwOfpc95Kf">
-    <mxGraphModel>
+    <mxGraphModel dx="1560" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MMaVL3naiByIFtd3Be5P-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MMaVL3naiByIFtd3Be5P-2" target="MMaVL3naiByIFtd3Be5P-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-2" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=1;labelBackgroundColor=none;fillColor=#dae8fc;gradientColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.stxnext.com/hubfs/STX%20Next%202020/images/icon-day-1.svg;" vertex="1" parent="1">
+          <mxGeometry x="398" y="165" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-4" value="&lt;b&gt;Digital Project Process&amp;nbsp;Discussion Workshop&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="167" y="180" width="203" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-5" value="&lt;b&gt;Agenda&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-6" value="Digital Product Roadmap (30 mins) - Ying, Simon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="320" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-8" value="Digital Project Process (45 mins) - Xu, Owen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="179" y="349" width="247" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="360" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-10" value="Current Problems &amp;amp; Issues (30 mins) - Xu, Owen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="387" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="398" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="230" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-13" value="When: Apr 20th 2023, 10:00 AM - 12:00 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="168" y="241" width="242" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-14" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="291" as="sourcePoint" />
+            <mxPoint x="450" y="291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-15" value="Q&amp;amp;A (10 mins)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="181" y="427" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="437" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-17" value="Break (5 mins)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="181" y="328" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="340" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-19" value="Break (5 mins)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180.5" y="368" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="378" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-21" value="Break (5 mins)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="407" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="419" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-23" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=1;labelBackgroundColor=none;fillColor=#dae8fc;gradientColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-24" value="Align with the latest Digital Product Roadmap." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="518" y="320" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-26" value="Align with Digital Project Management Process." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="529" y="349" width="261" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="518" y="360" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-28" value="Understand the current problems and give action plan." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="396" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="518" y="398" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-30" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="230" as="sourcePoint" />
+            <mxPoint x="800" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-31" value="Objectives" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="518" y="241" width="62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-32" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="268" as="sourcePoint" />
+            <mxPoint x="800" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-33" value="&lt;b&gt;Digital Project Process&amp;nbsp;Discussion Workshop&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="519" y="180" width="203" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-34" value="Where:&amp;nbsp;Nangu Rd, Engineering Center or Teams" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="168" y="261" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MMaVL3naiByIFtd3Be5P-36" target="MMaVL3naiByIFtd3Be5P-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-36" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=1;labelBackgroundColor=none;fillColor=#dae8fc;gradientColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.stxnext.com/hubfs/STX%20Next%202020/images/icon-day-1.svg;" vertex="1" parent="1">
+          <mxGeometry x="398" y="495" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-38" value="&lt;b&gt;Digital Project Discussion Workshop (2nd Session)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="167" y="510" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-39" value="&lt;b&gt;Agenda&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-40" value="IRPDP Tailored for Agile (30 mins) - Zhong, Xiaohu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="178" y="645" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="655" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-42" value="Digital Project Decision Tool&amp;nbsp; (30 mins) - Xu, Owen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="182" y="694" width="271" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="704" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-44" value="Current Problems &amp;amp; Issues (30 mins) - Xu, Owen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="740" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="752" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-46" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="560" as="sourcePoint" />
+            <mxPoint x="450" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-47" value="When: Apr 28th 2023, 10:30 AM - 12:00 PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="168" y="571" width="242" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-48" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="621" as="sourcePoint" />
+            <mxPoint x="450" y="621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-49" value="Break (5 mins)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="181" y="669" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="679" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-51" value="Break (5 mins)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180.5" y="717" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="168" y="728" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-53" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=1;labelBackgroundColor=none;fillColor=#dae8fc;gradientColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-54" value="Understand IRPDP Tailored Version." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="518" y="650" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-56" value="Revise Digital Project Management Process." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="529" y="679" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="518" y="690" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-58" value="Understand the current problems and action plan." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="528" y="718" width="271" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="518" y="728" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-60" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="560" as="sourcePoint" />
+            <mxPoint x="800" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-61" value="Objectives" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="518" y="571" width="62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-62" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=0.5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="598" as="sourcePoint" />
+            <mxPoint x="800" y="598" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-63" value="&lt;b&gt;Digital Project Discussion Workshop&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;(2nd Session)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="519" y="510" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMaVL3naiByIFtd3Be5P-64" value="Where: Microsoft Teams" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="167" y="591" width="142" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

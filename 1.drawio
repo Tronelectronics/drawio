@@ -1,9 +1,468 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T02:31:05.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.3" etag="1Zz9l15eZRnwyp0eTuqa" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T02:33:17.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SKQKZQO5De_G4LVKKooP" version="21.3.3" type="github">
   <diagram name="Page-1" id="Hgpaj0lZGDFiAf12FXzT">
-    <mxGraphModel>
+    <mxGraphModel dx="1560" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-1" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="218" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-2" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="218" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-3" value="提升产品价值&lt;br&gt;合理的定价&lt;br&gt;服务更到位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="298" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-4" value="未来世界是开源的&lt;br&gt;开放竞争" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-5" value="若Atlas是私有协议&lt;br&gt;IR是公有协议&lt;br&gt;反倒变为优势提升赢单率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="418" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-6" value="多一次与客户沟通的机会" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-7" value="&lt;font color=&quot;#ffffff&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="188" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-8" value="&lt;font color=&quot;#ffffff&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="188" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-9" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="218" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-10" value="不是最好 设置门槛" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-11" value="解决方案是否有竞争力&lt;br&gt;定价机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="298" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-12" value="带来不好的客户体验&lt;br&gt;没办法定量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-13" value="&lt;font color=&quot;#ffffff&quot;&gt;3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="188" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-14" value="战略还是战术?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="660" y="198" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-15" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="218" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-16" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="218" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-17" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="218" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-18" value="如果是开放的话 客户可以绕过我们&lt;br&gt;如果是私有的话 客户可能会先找我们" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-19" value="如果常规的ROI一定是亏的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-20" value="看5年和10年战略的角度是合理的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="298" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-21" value="从投资回报的角度来看一定是亏的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="298" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-22" value="更好的方案是 发展合作伙伴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-23" value="&lt;font color=&quot;#ffffff&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-24" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-25" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-26" value="融入到生态系统中去" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-27" value="10几年在原地打转 没有创新" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-28" value="数字孪生&lt;br&gt;算法&lt;br&gt;多弄几个通道" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-29" value="icontrol重新定位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-30" value="性价比甩几条街" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-31" value="&lt;font color=&quot;#ffffff&quot;&gt;5&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="590" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-32" value="打了好几天打不通 嘟嘟嘟" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="620" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-33" value="&lt;font color=&quot;#ffffff&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="590" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-34" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="620" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-35" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="620" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-36" value="主要还是看战略" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="660" y="600" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-37" value="临时的措施 治标不治本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-38" value="客户的需求和我们的需求是矛盾的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-39" value="从私有协议角度来看我们不是在为客户创造价值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-40" value="为客户创造价值是第一位的 外面团队的实力已经远远超过我们了" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-41" value="&lt;font color=&quot;#ffffff&quot;&gt;7&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="990" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-42" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1020" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-43" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1020" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-44" value="销售端投反对票" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-45" value="没有办法测算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-46" value="加强与客户的连接" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-47" value="没有办法评估业务收入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-48" value="从业务端角度发现Leads 能不能转换为Oppotunity不知道" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-49" value="&lt;font color=&quot;#ffffff&quot;&gt;8&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="999" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-50" value="&lt;font color=&quot;#ffffff&quot;&gt;9&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="990" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-51" value="发邮件 周一周二回复" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1020" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-52" value="&lt;font color=&quot;#ffffff&quot;&gt;10&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1230" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-53" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-54" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-55" value="带来不了太多销售机会的 负面效应还更多一下" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-56" value="如果只是一个密码的话 都是能接受的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" vertex="1" parent="1">
+          <mxGeometry x="10" y="185.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
+          <mxGeometry x="290" y="185.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
+          <mxGeometry x="570" y="185.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-60" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" vertex="1" parent="1">
+          <mxGeometry x="10" y="587.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-61" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
+          <mxGeometry x="570" y="587.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-62" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" vertex="1" parent="1">
+          <mxGeometry x="10" y="987.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-63" value="数据管理而不是私有协议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1240" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-64" value="私有协议不是好的方式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-65" value="私有协议不是好的方式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-66" value="开源 开放竞争" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="198" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-67" value="生态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="600" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-68" value="从销售端来讲不赞成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1000" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-69" value="双刃剑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="380" y="198" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-70" value="&lt;font color=&quot;#ffffff&quot;&gt;11&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1230" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-71" value="在开车 在高速上" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-72" value="&lt;font color=&quot;#ffffff&quot;&gt;12&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1230" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-73" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-74" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-75" value="完全不给 市场上看到的下场不好 Atlas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-76" value="可以多一次业务联系 哪怕转化率再小" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-77" value="大家都在开源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-78" value="有条件放开 不是关闭 着重强调放开" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="1240" width="195" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-79" value="客户角度来说的话 没有人会认为是好处" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-80" value="1台2台的没做集控 可以当作可以接受也可以当作不接受" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-81" value="多做一些产品功能 等到客户来问你的时候 你能够推荐给他" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-82" value="&lt;font color=&quot;#ffffff&quot;&gt;13&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1430" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-83" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-84" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-85" value="公有化在竞标的时候我们是有优势" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="1440" width="195" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-86" value="其他供应商端口不开放的话项目流失" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-87" value="客户的采购模式都是要走招标的流程 如果端口不开放的话对我们是有影响的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-88" value="最好的方式是产品要加强 定价要更有优势" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-89" value="私有化对于自己是封闭" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-90" value="索要端口信号数据的时候可以去做这个统计 了解哪些客户要了这个端口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-91" value="&lt;font color=&quot;#ffffff&quot;&gt;14&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1440" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-92" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="441" y="1470" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-93" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1470" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-94" value="支持加个密 没办法判断私有协议是否好" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="1450" width="216.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-95" value="增加客户的粘度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-96" value="哪怕收1000块钱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-97" value="无法测算能否带来业务机会" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-98" value="投标的时候要求开 必须给到客户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="441" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-99" value="或者可以给客户 但是要签保密协议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-100" value="&lt;font color=&quot;#ffffff&quot;&gt;15&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1760" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-101" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1790" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-102" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1790" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-103" value="有什么意义呢" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1770" width="87.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-104" value="有什么意义呢 客户是要求开放的协议 加个密客户也是不满意的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-105" value="没人去跑客户 只是做了一个空壳解决方案 我们现在忙不过来没人跑现场" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-106" value="怎么私有协议是标准化了 公有协议倒变成非标了 没有哪个客户会接受的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-107" value="&lt;font color=&quot;#ffffff&quot;&gt;16&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1760" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-108" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1790" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-109" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1790" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-110" value="有什么意义呢" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1770" width="87.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-111" value="集控业务体量小 我们准备投入多少资源来做集控开发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-112" value="如果闭门造车 我们怎么做都是可以的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-113" value="但是客户的需求是要求很多系统融合在一起" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-114" value="这是我们自己想象出来的业务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-115" value="资源不充足的情况下 去谈私有协议没有意义" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-116" value="有些客户不care也不代表他们能接受" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-117" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="1757.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-118" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" vertex="1" parent="1">
+          <mxGeometry x="20" y="1757.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-119" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
+          <mxGeometry x="290" y="1437.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-120" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" vertex="1" parent="1">
+          <mxGeometry x="10" y="1430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-121" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" vertex="1" parent="1">
+          <mxGeometry x="570" y="1227.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-122" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" vertex="1" parent="1">
+          <mxGeometry x="10" y="1227.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-123" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1030" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-124" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1030" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-125" value="客户要求开放我们就开放 Atalas加一个转接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-126" value="从销售端来讲不赞成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1010" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-127" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Checkmark-128.png" vertex="1" parent="1">
+          <mxGeometry x="290" y="999" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-128" value="如果这个模块要在整机销售的时候增加很多成本就不好了" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="441" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-129" value="可以 但是一定是要控制住成本 成本不高不是什么坏事" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-130" value="若成本高 如果1000块钱的成本都不赞成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-131" value="如果程序上封住 但是防不住" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-132" value="找更多合作伙伴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2250" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-133" value="&lt;font color=&quot;#ffffff&quot;&gt;11&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2240" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-134" value="disagree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-135" value="agree" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-136" value="价格太高" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-137" value="竞争对手太强 太多了 拉高门槛" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-138" value="没有核心技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-139" value="贴牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-140" value="我们应该把渠道做好" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-141" value="客户中心团队挺好的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-142" value="要么产品 要么网络" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-143" value="你公司不投入 你投不投" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="296" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-144" value="热处理 不都是外协的吗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="296" y="2410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-145" value="这合不合法? 有人说不合法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="296" y="2470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-146" value="客户彻底流失了&lt;br&gt;偷鸡不成十八米" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="2530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-147" value="单纯的防守 一点进攻的意义也没有" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-148" value="现在的社会是产品力的时代" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-149" value="想保住这块业务就要加强产品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-150" value="产品亮点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-151" value="占比太小" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-152" value="在产品上多花店心思" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dykpLfIF0X6sRC6czNQ-153" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" vertex="1" parent="1">
+          <mxGeometry x="10" y="2237.5" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

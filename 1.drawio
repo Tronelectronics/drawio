@@ -1,9 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T09:24:55.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SDsot29Q2aoHrH5hbU5v" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T09:33:24.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="k-uXK0N7-wI42lBjYlEk" version="21.3.3" type="github">
   <diagram name="Page-1" id="yHacmY6Kc4kIQ6oWTxSl">
     <mxGraphModel dx="3120" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f825iNTpetZpJ5ZY46OB-1" value="Lean" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="195" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-3" target="f825iNTpetZpJ5ZY46OB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-3" value="Agile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-6" target="f825iNTpetZpJ5ZY46OB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-6" target="f825iNTpetZpJ5ZY46OB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-6" value="What consideration is important for you?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-7" value="Flexibility" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="98" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-10" target="f825iNTpetZpJ5ZY46OB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-10" target="f825iNTpetZpJ5ZY46OB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-10" value="What&#39;s the size of your project?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-11" value="Clearly set plan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="523" y="85" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-12" value="Waterfall" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="700" y="165" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-13" value="Small" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="613" y="146" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-16" target="f825iNTpetZpJ5ZY46OB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-16" target="f825iNTpetZpJ5ZY46OB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-16" value="Are you focused on waste elimination?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-17" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-20" target="f825iNTpetZpJ5ZY46OB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-20" target="f825iNTpetZpJ5ZY46OB-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-20" value="Do you have enough time to control the work all by yourself?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-21" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="355" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-22" value="Extreme Programming" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-23" value="Yes, I want to control&lt;br&gt;everything by myself" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="639" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-26" target="f825iNTpetZpJ5ZY46OB-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-26" target="f825iNTpetZpJ5ZY46OB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-26" value="Do you want to get reports on project tasks every two weeks?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="200" y="559" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-27" value="No, I&#39;m open to work&lt;br&gt;with a self-organized team" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-28" value="Scrum" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="420" y="574" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-29" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="554" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-30" value="Kanban" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="420" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-31" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="670" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-34" target="f825iNTpetZpJ5ZY46OB-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f825iNTpetZpJ5ZY46OB-34" target="f825iNTpetZpJ5ZY46OB-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-34" value="What&#39;s the focus of your planning?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-35" value="Complex" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-36" value="Critical Chain Project Management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="700" y="285" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-37" value="Resources" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="264" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-38" value="Critical Path Method" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="460" y="385" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f825iNTpetZpJ5ZY46OB-39" value="Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,9 +1,417 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T08:38:06.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.2" etag="EdaTduUObBq4b23AA6HP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T08:38:55.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7lRFVyPixeIHJR7r_8jH" version="21.6.2" type="github">
   <diagram name="Page-1" id="pNQiBkeibn6qI7dJQPxl">
-    <mxGraphModel>
+    <mxGraphModel dx="1190" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="41" width="400" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="919" y="41" width="400" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-3" value="Gate 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1199.75" y="41" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="938" y="444" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-5" value="Project scope" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="958" y="434" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="938" y="469" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-7" value="Commercial hypothesis - High Level" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="958" y="459" width="202" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="938" y="498" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-9" value="Learnings from similar projects" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="958" y="488" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="938" y="532" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-11" value="Unacceptable tolerance for risks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="958" y="522" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="938" y="560" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-13" value="Investment and resources needed for Phase 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="958" y="550" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-14" value="Key Gate Deliverables" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="957" y="414" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="938" y="200" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-16" value="Does the idea have business merit?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="958" y="190" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="938" y="225" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-18" value="Does the idea seems feasible?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="958" y="215" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="938" y="254" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-20" value="Is the likely project direction not in conflict with any other strategy?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="958" y="244" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="938" y="288" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-22" value="Can I commit my function’s manpower in the next phase?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="958" y="278" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-23" value="Considerations for Approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="957" y="161" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-24" value="Gate 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1639.75" y="41" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="450" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-26" value="Phase 2 risk inclusive resource, expense, capital plan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="440" width="292.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="475" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-28" value="Risk register for phase 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="465" width="142.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="504" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-30" value="Validated commercial hypothesis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="494" width="182.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="538" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-32" value="Preliminary manufacturing plan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="528" width="172.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="566" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-34" value="Product concepts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="556" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-35" value="Key Gate Deliverables" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1406.5" y="420" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="211" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-38" value="Is the preliminary business case sound including estimated demand, forecast, investment, benefit?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="240" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="284" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-40" value="Does the concept seem feasible? Does it meet internal and external requirements?&amp;nbsp; Is it aligned with business objectives?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="274" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="316" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-42" value="Am I satisfied with my function’s progress and deliverables?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="306" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-43" value="Considerations for Approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="168" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="40" width="400" height="601" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-45" value="Gate 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2079" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="453" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-47" value="Phase 3-5 risk inclusive resource, expense, capital plan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="443" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="478" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-49" value="Risk register for phase 3-5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="468" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="507" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-51" value="Commercial commitment agreement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="497" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="541" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-53" value="Manufacturing site selected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="531" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="569" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-55" value="Quality plan established" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="559" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-56" value="Key Gate Deliverables" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="423" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="212" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-58" value="Is the business case sound including demand, forecast, investment, benefit?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="202" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="237" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-60" value="Are the product specification agreed upon or if not fully, are there planned actions to resolve any conflicts?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="227" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="266" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-62" value="Are functional requirements agreed upon or if not fully, are there actions to resolve any conflicts?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="256" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-63" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="300" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-64" value="Is the concept is feasible and aligned to the business objectives?&amp;nbsp; Does it meet internal and external requirements?&amp;nbsp; Is it aligned with business objectives?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="293" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-65" value="Considerations for Approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="173" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="343" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-67" value="Can I commit my function’s manpower in the next phase?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="333" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-68" value="Do the descriptions of customers’ need, the solution, and the value proposition convey enough understanding of the relevant details to give you confidence in the reasoning?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="201" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-69" value="Theme" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="958" y="91" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-70" value="Is there an attractive hypothesis worth validating?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="957" y="121" width="281" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-71" value="Theme" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="91" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-72" value="Has the hypothesis been validated sufficiently to warrant concept development?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="121" width="251" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-73" value="Theme" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="91" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-74" value="Is there an acceptable solution worth validating?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="121" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="336" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-76" value="Am I satisfied with my function’s progress and deliverables?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="329" width="321" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="362" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-78" value="Has my function identified any potential risks?&amp;nbsp; Am I satisfied with any plans to mitigate risks?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="355" width="351" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="392" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-80" value="Can I commit my function’s manpower through to implementation?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="385" width="361" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-81" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="587" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-82" value="Preliminary commercialization plan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1408.5" y="577" width="191.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-83" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="594" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-84" value="Test plan established" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1841" y="584" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="618" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-86" value="Inventory impact" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840.75" y="608" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="919.75" y="674" width="400" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-88" value="Gate 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1199.75" y="674" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-89" value="Key Gate Deliverables" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="957.75" y="1047" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-90" value="Considerations for Approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="957.75" y="848" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-91" value="Theme" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="958.75" y="724" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-92" value="The purpose of this phase is to understand the functionality of product and how the solution can bring benefits to the business." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="941.75" y="754" width="373" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-93" value="Business Case" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="993.75" y="1075" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-94" value="Product Roadmap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="993.75" y="1115" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-95" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/pptx.svg;" vertex="1" parent="1">
+          <mxGeometry x="958.75" y="1115" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-96" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/zip.svg;" vertex="1" parent="1">
+          <mxGeometry x="958.75" y="1074" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-97" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/docx.svg;" vertex="1" parent="1">
+          <mxGeometry x="958.75" y="1155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-98" value="Scope Document" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="993.75" y="1155" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-99" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/docx.svg;" vertex="1" parent="1">
+          <mxGeometry x="958.75" y="1195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-100" value="Solution Proposal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="993.75" y="1195" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360.75" y="674" width="400" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-102" value="Gate 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1639.75" y="674" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-103" value="Key Gate Deliverables" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1398.75" y="1047" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-104" value="Considerations for Approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1398.75" y="848" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-105" value="Theme" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1399.75" y="724" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-106" value="The purpose of this phase is to perform the initial planning and preparation for the project. In this phase, the project is started, plans are finalized, the project team is assigned, and work is under way to start the project optimally." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1382.75" y="763" width="373" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-107" value="Project Charter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430.75" y="1119.5" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-108" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/html.svg;" vertex="1" parent="1">
+          <mxGeometry x="1400.75" y="1119.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-109" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/mpp.svg;" vertex="1" parent="1">
+          <mxGeometry x="1400.75" y="1149.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-110" value="Project Management Plan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430.75" y="1149.5" width="141" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-111" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/mpp.svg;" vertex="1" parent="1">
+          <mxGeometry x="1574.75" y="1083.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-112" value="Training Plan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1604.75" y="1083.5" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-113" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/docx.svg;" vertex="1" parent="1">
+          <mxGeometry x="1574.75" y="1119.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-114" value="Technical Requirements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1604.75" y="1119.5" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-115" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/vsdx.svg;" vertex="1" parent="1">
+          <mxGeometry x="1574.75" y="1149.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-116" value="Solution Landscape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1604.75" y="1149.5" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-117" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/docx.svg;" vertex="1" parent="1">
+          <mxGeometry x="1400.75" y="1083.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-118" value="Statement of Work" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430.75" y="1083.5" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="674" width="400" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-120" value="Gate 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="674" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-121" value="Key Gate Deliverables" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1838" y="1047" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-122" value="Considerations for Approval" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1838" y="848" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-123" value="Theme" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="724" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-124" value="The purpose of this phase is to perform a analysis to validate the solution functionality included in the project scope and to confirm that the business requirements can be satisfied. Identified delta configuration values are added to the backlog for use in the next phase." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1801" y="770" width="398" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-125" value="Discover Phase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="919.75" y="674" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-126" value="Prepare Phase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360.75" y="674" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-127" value="Explore Phase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="674" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-128" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/docx.svg;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="1106" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-129" value="Technical Design Spec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1869" y="1106" width="131.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-130" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/vsdx.svg;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="1075" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-131" value="Solution Architecture Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1869" y="1075" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-132" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://spoprod-a.akamaihd.net/files/fabric/assets/item-types/32/docx.svg;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="1138" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-133" value="Functional Design Spec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1869" y="1138" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-134" value="Phase 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="919.75" y="41" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-135" value="Phase 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1360.75" y="41" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GhYkBc8JFWrLMJiVdWdc-136" value="Phase 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1801" y="41" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

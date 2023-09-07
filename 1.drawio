@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T02:11:29.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.1" etag="U_92HiRCWuIonsyxyIkq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T08:48:07.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Cac4PR0VvjyVlnacz7vc" version="21.7.2" type="github">
   <diagram name="Page-1" id="D6pnyfYFkSyE-FbkkBxH">
-    <mxGraphModel>
+    <mxGraphModel dx="1040" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLSqSyGRD2IAA4yPzhUn-2" target="HLSqSyGRD2IAA4yPzhUn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLSqSyGRD2IAA4yPzhUn-3" target="HLSqSyGRD2IAA4yPzhUn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-3" value="Request for Password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://contoso.storiesonboard.com/content/img/persona-avatars/avatar05.png?slug=guidemap;" vertex="1" parent="1">
+          <mxGeometry x="205" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-5" value="&lt;b&gt;Customer&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLSqSyGRD2IAA4yPzhUn-6" target="HLSqSyGRD2IAA4yPzhUn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-6" value="Process with Customer&#39;s Request" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-8" value="&lt;b&gt;800 Call Center&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="107.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLSqSyGRD2IAA4yPzhUn-12" target="HLSqSyGRD2IAA4yPzhUn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-12" value="Order Management (OM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLSqSyGRD2IAA4yPzhUn-14" target="HLSqSyGRD2IAA4yPzhUn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-14" value="&lt;h1&gt;Contract Abstract&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLSqSyGRD2IAA4yPzhUn-16" target="HLSqSyGRD2IAA4yPzhUn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-16" value="Handle with Customer’s Request" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-17" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://contoso.storiesonboard.com/content/img/persona-avatars/avatar07.png?slug=guidemap;" vertex="1" parent="1">
+          <mxGeometry x="605" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-18" value="&lt;b&gt;Service Engineer&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-20" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="505" y="148" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLSqSyGRD2IAA4yPzhUn-21" target="HLSqSyGRD2IAA4yPzhUn-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-21" value="Get Notification for Completion of Customer&#39;s Request" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLSqSyGRD2IAA4yPzhUn-23" target="HLSqSyGRD2IAA4yPzhUn-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-23" value="Notify Customer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-25" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="590" y="30" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-28" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-33" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
+          <mxGeometry x="397" y="95" width="46" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-35" value="" style="shape=mxgraph.signs.tech.telephone_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="128" width="35" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HLSqSyGRD2IAA4yPzhUn-36" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

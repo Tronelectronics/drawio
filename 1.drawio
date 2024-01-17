@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" modified="2024-01-17T08:44:41.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ox11swDeSHC1HihMA_lh" version="22.1.20" type="github">
+  <diagram name="Page-1" id="ILGk91zIhwfeMO8ojX1q">
+    <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;任务分类&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-2" value="前端入口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-3" value="设备二维码确认" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;线上资料维护系统及存储&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;二维码标签打印与粘贴&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-6" value="Customer Portal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-7" value="Internal Portal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-8" value="位置/材质/成本/要求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-9" value="二维码标签设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-10" value="资料维护系统升级" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-11" value="资料数据存储方式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-12" value="资料分级需求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-13" value="CP匹配QR Code的功能升级（如: 扫码功能, 资料显示, 账号申请）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-14" value="IP匹配QR Code的功能升级（如: 账号审批）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-15" value="需要对不同型号的螺杆机二维码粘贴位置, 材质, 成本进行确认" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-16" value="二维码的形式 (一机一码), 标签上需要显示话术" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-17" value="在GD的系统基础上确认升级需求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-18" value="工厂私有服务器? AWS云 (IT建议AWS云)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-19" value="需要明确有哪些资料, 并对资料的权限进行分级" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-20" value="需要生成二维码, 打印, 并在工厂生产时进行粘贴" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;任务描述&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;负责人&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Lu, Derrick&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Ma, Garfield&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-25" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Lu, Derrick&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Lu, Derrick&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Jin, Lian&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-28" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Luo, Lu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="853" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Yang, Peter&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Jin, Lian&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Chen, Dong&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Fan, George&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="853" y="360" width="67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-33" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Wang, Renny&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPa0qvvWX_ze5yZ_Owoj-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Jin, Lian&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
